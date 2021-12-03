@@ -1,0 +1,7 @@
+txn Amount
+arg 0
+>=
+arg 1
+arg 2
+app_global_put
+&&
